@@ -1,0 +1,127 @@
+{
+  "navbar": {
+    "home": "strona główna",
+    "jobs": "znajdź pracę",
+    "freelancers": "dla pracodawców",
+    "userMenu": {
+      "dashboard": "panel",
+      "settings": "ustawienia",
+      "logout": "wyloguj"
+    }
+  },
+  "buttons": {
+    "search": "szukaj",
+    "browse": "przeglądaj wszystkie oferty pracy",
+    "applyNow": "aplikuj teraz",
+    "getStarted": "zacznij",
+    "viewBlog": "zobacz blog",
+    "makeAnOffer": "złóż ofertę",
+    "saveChanges": "zapisz zmiany"
+  },
+  "footer": {
+    "first": {
+      "title": "dla kandydatów",
+      "links": {
+        "jobs": "przeglądaj oferty pracy",
+        "settings": "dodaj CV",
+        "bookmarks": "moje zakładki"
+      }
+    },
+    "second": {
+      "title": "dla pracodawców",
+      "links": {
+        "candidates": "przeglądaj kandydatów",
+        "postJob": "opublikuj ofertę pracy"
+      }
+    },
+    "third": {
+      "title": "przydatne linki",
+      "links": {
+        "contact": "kontakt"
+      }
+    },
+    "fourth": {
+      "title": "konto",
+      "links": {
+        "logIn": "zaloguj się",
+        "account": "moje konto"
+      }
+    },
+    "newsletterForm": {
+      "header": "zapisz się na newsletter",
+      "subHeader": "Codzienne wiadomości, analizy i porady na temat poszukiwania pracy."
+    }
+  },
+  "sorting": {
+    "location": {
+      "plholder": "Lokalizacja",
+      "header": "Lokalizacja",
+      "label": "Lokalizacja"
+    },
+    "keywords": {
+      "plholder": "np. stanowisko pracy",
+      "header": "Słowa kluczowe",
+      "label": "Słowa kluczowe"
+    },
+    "jobType": {
+      "labels": {
+        "fullTime": "Pełny etat",
+        "freelance": "Praca na zlecenie",
+        "partTime": "Praca w niepełnym wymiarze godzin",
+        "intership": "Staż",
+        "temporary": "Praca tymczasowa"
+      },
+      "header": "Rodzaj pracy"
+    },
+    "salary": {
+      "header": "Wynagrodzenie"
+    },
+    "topPannel": {
+      "results": "Wyniki wyszukiwania",
+      "turnOnEmail": "Włącz powiadomienia e-mail dla tego wyszukiwania",
+      "default": "domyślne",
+      "newest": "najnowsze",
+      "oldest": "najstarsze",
+      "all": "wszystkie kategorie",
+      "itemsSelected": "wybrane elementy"
+    }
+  },
+  "jobId": {
+    "description": "opis stanowiska",
+    "location": "lokalizacja",
+    "summary": "podsumowanie stanowiska",
+    "type": "rodzaj stanowiska",
+    "salary": "wynagrodzenie",
+    "date": "data publikacji",
+    "subHeader": "O pracodawcy",
+    "annualSalary": "roczne wynagrodzenie"
+  },
+  "freelancerId": {
+    "about": "o mnie",
+    "feedbacks": "historia pracy i opinie",
+    "employment": "historia zatrudnienia",
+    "rate": "stawka godzinowa",
+    "done": "zrealizowane projekty",
+    "success": "sukces",
+    "recommendation": "polecenie",
+    "onTime": "terminowo",
+    "onBudget": "zgodność z budżetem",
+    "skills": "umiejętności"
+  },
+  "dashboardDrawer": {
+    "start": {
+      "header": "rozpocznij",
+      "tabs": {
+        "dashboard": "pulpit",
+        "bookmarks": "zakładki"
+      }
+    },
+    "organize": {
+      "header": "organizuj i zarządzaj"
+    },
+    "account": {
+      "header": "konto",
+      "tabs": { "settings": "ustawienia", "logout": "wyloguj" }
+    }
+  }
+}

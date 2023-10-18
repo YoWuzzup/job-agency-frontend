@@ -1,0 +1,40 @@
+{
+  "header": "ustawienia",
+  "accountBlock": {
+    "header": "Moje Konto",
+    "name": "imie",
+    "surname": "nazwisko",
+    "accType": {
+      "type": "typ konta",
+      "freelancer": "freelancer",
+      "employer": "pracodawca"
+    },
+    "email": "email"
+  },
+  "profileBlock": {
+    "header": "mój profil",
+    "rate": "Ustaw minimalną stawkę godzinową",
+    "skills": {
+      "skills": "umiejętności",
+      "plholder": "np. Angular Laravel"
+    },
+    "attachments": {
+      "attachments": "załączniki",
+      "cv": "list motywacyjny",
+      "contract": "umowa",
+      "fileSize": "maksymalny rozmiar pliku"
+    },
+    "tagline": {
+      "tagline": "slogan",
+      "plholder": "Ekspert iOS + Node Dev"
+    },
+    "nationality": {
+      "nationality": "obywatelstwo",
+      "plholder": "obywatelstwo"
+    },
+    "introduction": {
+      "introduction": "przedstaw się",
+      "plholder": "wprowadzenie"
+    }
+  }
+}

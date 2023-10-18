@@ -1,0 +1,11 @@
+{
+  "locales": ["en", "pl", "ru"],
+  "defaultLocale": "en",
+  "pages": {
+    "*": ["common", "404"],
+    "/": ["home"],
+    "/about": ["about"],
+    "/dashboard/bookmarks": ["bookmarks"],
+    "/dashboard/settings": ["settings", "common"]
+  }
+}

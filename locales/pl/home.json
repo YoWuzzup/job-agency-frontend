@@ -1,0 +1,20 @@
+{
+  "intro": {
+    "mainHeader": "Znajdź Swoją Następną Pracę",
+    "subHeader": "Znajdź najlepsze oferty pracy w branży cyfrowej",
+    "inputFields": {
+      "job": "Praca Online",
+      "keywords": "Stanowisko lub Słowa Kluczowe"
+    },
+    "statistics": {
+      "jobs": "Opublikowane Oferty",
+      "freelancers": "Freelancerzy"
+    }
+  },
+  "recentJobs": {
+    "header": "Ostatnie Oferty Pracy"
+  },
+  "fromTheBlog": {
+    "header": "Z Bloga"
+  }
+}

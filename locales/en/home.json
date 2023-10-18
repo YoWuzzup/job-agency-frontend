@@ -1,0 +1,20 @@
+{
+  "intro": {
+    "mainHeader": "Find Your Next Job",
+    "subHeader": "Find the best jobs in the digital industry",
+    "inputFields": {
+      "job": "Online Job",
+      "keywords": "Job Title or Keywords"
+    },
+    "statistics": {
+      "jobs": "Jobs Posted",
+      "freelancers": "Freelancers"
+    }
+  },
+  "recentJobs": {
+    "header": "Recent Jobs"
+  },
+  "fromTheBlog": {
+    "header": "from the blog"
+  }
+}

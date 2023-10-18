@@ -1,0 +1,40 @@
+{
+  "header": "настройки",
+  "accountBlock": {
+    "header": "Мой аккаунт",
+    "name": "имя",
+    "surname": "фамилия",
+    "accType": {
+      "type": "тип аккаунта",
+      "freelancer": "фрилансер",
+      "employer": "работодатель"
+    },
+    "email": "электронная почта"
+  },
+  "profileBlock": {
+    "header": "мой профиль",
+    "rate": "Укажите вашу минимальную почасовую ставку",
+    "skills": {
+      "skills": "навыки",
+      "plholder": "например, Angular Laravel"
+    },
+    "attachments": {
+      "attachments": "вложения",
+      "cv": "резюме",
+      "contract": "контракт",
+      "fileSize": "максимальный размер файла"
+    },
+    "tagline": {
+      "tagline": "слоган",
+      "plholder": "Эксперт по iOS + Разработчик на Node"
+    },
+    "nationality": {
+      "nationality": "национальность",
+      "plholder": "национальность"
+    },
+    "introduction": {
+      "introduction": "представьтесь",
+      "plholder": "представление"
+    }
+  }
+}

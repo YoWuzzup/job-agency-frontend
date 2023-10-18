@@ -1,0 +1,127 @@
+{
+  "navbar": {
+    "home": "home",
+    "jobs": "find work",
+    "freelancers": "for employers",
+    "userMenu": {
+      "dashboard": "dashboard",
+      "settings": "settings",
+      "logout": "logout"
+    }
+  },
+  "buttons": {
+    "search": "search",
+    "browse": "browse all jobs",
+    "applyNow": "apply now",
+    "getStarted": "get started",
+    "viewBlog": "view blog",
+    "makeAnOffer": "make an offer",
+    "saveChanges": "save changes"
+  },
+  "footer": {
+    "first": {
+      "title": "for candidates",
+      "links": {
+        "jobs": "browse jobs",
+        "settings": "add resume",
+        "bookmarks": "my bookmarks"
+      }
+    },
+    "second": {
+      "title": "for employers",
+      "links": {
+        "candidates": "browse candidates",
+        "postJob": "post a job"
+      }
+    },
+    "third": {
+      "title": "helpful links",
+      "links": {
+        "contact": "contact"
+      }
+    },
+    "fourth": {
+      "title": "account",
+      "links": {
+        "logIn": "log in",
+        "account": "my account"
+      }
+    },
+    "newsletterForm": {
+      "header": "sign up for a newsletter",
+      "subHeader": "Weekly breaking news, analysis and cutting edge advices on job searching."
+    }
+  },
+  "sorting": {
+    "location": {
+      "plholder": "Location",
+      "header": "Location",
+      "label": "Location"
+    },
+    "keywords": {
+      "plholder": "e.g. job title",
+      "header": "Keywords",
+      "label": "Keywords"
+    },
+    "jobType": {
+      "labels": {
+        "fullTime": "Full Time",
+        "freelance": "Freelance",
+        "partTime": "Part Time",
+        "intership": "Intership",
+        "temporary": "Temporary"
+      },
+      "header": "Job Type"
+    },
+    "salary": {
+      "header": "Salary"
+    },
+    "topPannel": {
+      "results": "Search Results",
+      "turnOnEmail": "Turn on email alerts for this search",
+      "default": "default",
+      "newest": "newest",
+      "oldest": "oldest",
+      "all": "all categories",
+      "itemsSelected": "items selected"
+    }
+  },
+  "jobId": {
+    "description": "job description",
+    "location": "location",
+    "summary": "job summary",
+    "type": "job type",
+    "salary": "salary",
+    "date": "date posted",
+    "subHeader": "About the Employer",
+    "annualSalary": "Annual Salary"
+  },
+  "freelancerId": {
+    "about": "about me",
+    "feedbacks": "work history and feedbacks",
+    "employment": "employment history",
+    "rate": "hourly rate",
+    "done": "jobs done",
+    "success": "success",
+    "recommendation": "recommendation",
+    "onTime": "on time",
+    "onBudget": "on budget",
+    "skills": "skills"
+  },
+  "dashboardDrawer": {
+    "start": {
+      "header": "start",
+      "tabs": {
+        "dashboard": "dashboard",
+        "bookmarks": "bookmarks"
+      }
+    },
+    "organize": {
+      "header": "organize and manage"
+    },
+    "account": {
+      "header": "account",
+      "tabs": { "settings": "settings", "logout": "logout" }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "header": "Not Found",
+  "info": "We're sorry, but the page you were looking for doesn't exist",
+  "breadcrumb": {
+    "home": "home",
+    "notFound": "404 Not Found"
+  }
+}
