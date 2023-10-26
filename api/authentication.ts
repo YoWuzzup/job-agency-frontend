@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const url = process.env.NEXT_PUBLIC_URL;
+const url = process.env.NEXT_PUBLIC_BACKEND_URL;
 
 export const postLogInData = async (data: {
   email: string;

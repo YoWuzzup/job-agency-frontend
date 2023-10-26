@@ -1,7 +1,7 @@
 import axios from "axios";
 import { getIntoInfo } from "../redux/actions/common";
 
-const url = process.env.NEXT_PUBLIC_URL;
+const url = process.env.NEXT_PUBLIC_BACKEND_URL;
 
 export const fetchIntoInfo = async (dispatch: any) => {
   try {

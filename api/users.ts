@@ -1,7 +1,7 @@
 import axios, { AxiosResponse } from "axios";
 import { changeBookmarks } from "../redux/actions/user";
 
-const url = process.env.NEXT_PUBLIC_URL;
+const url = process.env.NEXT_PUBLIC_BACKEND_URL;
 
 export const fetchAllUsers = async (params: object) => {
   try {

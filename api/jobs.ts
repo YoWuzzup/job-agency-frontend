@@ -1,7 +1,7 @@
 import axios from "axios";
 import { getAllJobs, getSingleJob } from "../redux/actions/jobs";
 
-const url = process.env.NEXT_PUBLIC_URL;
+const url = process.env.NEXT_PUBLIC_BACKEND_URL;
 
 export const fetchAllJobs = async (
   params: object,
