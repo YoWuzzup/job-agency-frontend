@@ -55,7 +55,7 @@ export const CustomizedBreadcrumbs: React.FC<ICustomizedBreadcrumbs> = ({
               label={`${crumb.label}`}
               icon={crumb.icon}
               deleteIcon={crumb.deleIcon}
-              onClick={(e) => handleClick(e, crumb.label, crumb.linkTo)}
+              onClick={(e: any) => handleClick(e, crumb.label, crumb.linkTo)}
               onDelete={crumb.onDele}
               key={`${crumb.label}_${index}`}
               disabled={crumb.active ? true : false}
