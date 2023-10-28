@@ -377,7 +377,7 @@ export const CommonRegisterForm: React.FC<{
             },
           }}
           onClick={(e) =>
-            redirect ? router.push("/auth/login") : handlePageChange(e, 1)
+            redirect ? router.push("/auth/login") : handlePageChange(e, 0)
           }
         >
           Log In!
@@ -606,7 +606,7 @@ export const ExternalAuthes: React.FC<{
             backgroundColor: "#e0e0e0",
           }}
         />
-        <Grid item color={"#808080"}>
+        {/* <Grid item color={"#808080"}>
           or
         </Grid>
         <Grid
@@ -616,10 +616,10 @@ export const ExternalAuthes: React.FC<{
             height: "1px",
             backgroundColor: "#e0e0e0",
           }}
-        />
+        /> */}
       </Grid>
 
-      <Grid
+      {/* <Grid
         item
         container
         sx={{
@@ -643,7 +643,7 @@ export const ExternalAuthes: React.FC<{
             console.log("Google login failed");
           }}
         />
-      </Grid>
+      </Grid> */}
     </Box>
   );
 };
@@ -687,7 +687,7 @@ export const SignUpFormTabs: React.FC<{
       </TabPanel>
 
       {/* facebook and google authorization buttons */}
-      <ExternalAuthes handleSignUpPopupClose={handleSignUpPopupClose} />
+      {/* <ExternalAuthes handleSignUpPopupClose={handleSignUpPopupClose} /> */}
     </Box>
   );
 };
